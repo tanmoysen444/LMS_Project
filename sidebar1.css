@@ -1,0 +1,24 @@
+
+.batchbtn{
+    background-color: #075575;
+    min-width: 2rem !important;
+    max-width: 4rem !important;
+    min-height: 2rem !important;
+    max-height: 5rem !important;
+    margin-left: -10px !important;
+}
+.btn{
+    margin-top: 50px !important;
+    min-width: 1rem !important;
+    max-width: 3rem !important;
+    min-height: 2.3rem !important;
+    max-height: 5.3rem !important;
+    
+}
+.difbtn{
+    min-width: 2rem !important;
+    max-width: 4rem !important;
+    min-height: 2rem !important;
+    max-height: 5rem !important;
+    margin-left: -10px !important;
+}

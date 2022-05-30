@@ -1,0 +1,85 @@
+.ant-layout-header {
+     background: white !important;
+   }  
+   .navbarimg{
+     margin-left: -20%!important;
+     width: 150px !important;
+     display: inline;
+   } 
+   .place{
+     width: 45% !important;
+     margin-left: 250px !important;
+     background: #A1A1A3 !important;
+   }
+   .place2{
+    margin-left: 30% !important;
+   }
+   .third_row{
+     justify-content: center !important;
+     display: block !important;
+   }
+   .button{
+     margin-left: 5% !important;
+     
+     border:1px solid #1492E6;
+     background-color: #FEFEFE;
+     height: 30px;
+     width: 80px;
+     text-align: center;
+   }
+   .ant-layout-sider{
+     
+     background : white !important;
+     min-width:1rem !important;
+     max-width: 4rem !important;
+     min-height: 100rem !important;
+     max-height: 120rem !important;
+   }
+   /* .searchbar_univ{
+    min-width:15rem !important;
+    max-width: 40rem !important;
+    width: 45% !important;
+    margin-left: 250px !important;
+    background-color: #A1A1A3 !important;
+  
+  } */
+  .ant-btn{
+    /* margin-left: 40rem !important;  */
+   border: 1px solid #1492E6 !important;
+  }
+
+  .ant-input{
+    background-color: #919191 !important;
+  }
+  .ant-input-affix-wrapper{
+    background-color: #919191 !important;
+    /* min-width:30rem !important;
+    max-width: 80rem !important; */
+    width: 35rem !important;
+    margin-left: 80% !important;
+  }
+  .searchbar_loc{
+    min-width:10rem !important;
+    max-width: 30rem !important;
+  }
+  .ant-input-affix-wrapper-sm{
+    width: 25rem !important;
+    margin-left: 50rem !important;
+  }
+  .add_btn{
+    background: #FAA81D !important;
+    border: solid #FAA81D !important;
+    width: 100px !important;
+    height: 40px !important;
+    display: block !important;
+   margin-left: 20% !important;
+   /* margin-top: 20px; */
+   border-radius: 8px !important;
+   text-align: center !important;
+  }
+ /* .navbar{
+   display: block;
+ } */
+   
+   
+
